@@ -1,0 +1,10 @@
+C:\Users\LU.WANG\Desktop\QuantLab\TradeProcess\TradeSummary\bin\Debug\TradeSummary.exe.config
+C:\Users\LU.WANG\Desktop\QuantLab\TradeProcess\TradeSummary\bin\Debug\TradeSummary.exe
+C:\Users\LU.WANG\Desktop\QuantLab\TradeProcess\TradeSummary\bin\Debug\TradeSummary.pdb
+C:\Users\LU.WANG\Desktop\QuantLab\TradeProcess\TradeSummary\bin\Debug\TradeProcess.dll
+C:\Users\LU.WANG\Desktop\QuantLab\TradeProcess\TradeSummary\bin\Debug\TradeProcess.pdb
+C:\Users\LU.WANG\Desktop\QuantLab\TradeProcess\TradeSummary\obj\Debug\TradeSummary.csprojAssemblyReference.cache
+C:\Users\LU.WANG\Desktop\QuantLab\TradeProcess\TradeSummary\obj\Debug\TradeSummary.csproj.CoreCompileInputs.cache
+C:\Users\LU.WANG\Desktop\QuantLab\TradeProcess\TradeSummary\obj\Debug\TradeSummary.csproj.CopyComplete
+C:\Users\LU.WANG\Desktop\QuantLab\TradeProcess\TradeSummary\obj\Debug\TradeSummary.exe
+C:\Users\LU.WANG\Desktop\QuantLab\TradeProcess\TradeSummary\obj\Debug\TradeSummary.pdb

@@ -1,0 +1,5 @@
+C:\Users\LU.WANG\Desktop\QuantLab\TradeProcess\TradeProcess\obj\Debug\TradeProcess.csproj.CoreCompileInputs.cache
+C:\Users\LU.WANG\Desktop\QuantLab\TradeProcess\TradeProcess\bin\Debug\TradeProcess.dll
+C:\Users\LU.WANG\Desktop\QuantLab\TradeProcess\TradeProcess\bin\Debug\TradeProcess.pdb
+C:\Users\LU.WANG\Desktop\QuantLab\TradeProcess\TradeProcess\obj\Debug\TradeProcess.dll
+C:\Users\LU.WANG\Desktop\QuantLab\TradeProcess\TradeProcess\obj\Debug\TradeProcess.pdb
